@@ -1,0 +1,16 @@
+{
+  "private": true,
+  "name": "sde-intern-worker",
+  "version": "1.0.0",
+  "description": "A worker for the Cloudflare Summer SDE Intern General Programming Assignment",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "format": "prettier --write '**/*.{js,css,json,md}'"
+  },
+  "author": "Hardik Mahipal Surana <hsurana@usc.edu>",
+  "license": "MIT",
+  "devDependencies": {
+    "prettier": "^1.18.2"
+  }
+}

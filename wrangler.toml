@@ -1,0 +1,7 @@
+name = "sde-intern-worker"
+type = "webpack"
+
+account_id = "4943194a51b12e52af343502834f0bbd"
+workers_dev = true
+route = ""
+zone_id = ""
